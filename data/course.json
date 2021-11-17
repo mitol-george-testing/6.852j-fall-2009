@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ffa02e79-8c7d-ed25-d352-041d3158282a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Distributed Algorithms",
+  "course_description": "Distributed algorithms are algorithms designed to run on multiple processors, without tight centralized control. In general, they are harder to design and harder to understand than single-processor sequential algorithms. Distributed algorithms are used in many practical systems, ranging from large computer networks to multiprocessor shared-memory systems. They also have a rich theory, which forms the subject matter for this course.\n\nThe core of the material will consist of basic distributed algorithms and impossibility results, as covered in Prof. Lynch's book _Distributed Algorithms_. This will be supplemented by some updated material on topics such as self-stabilization, wait-free computability, and failure detectors, and some new material on scalable shared-memory concurrent programming.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.437J",
+  "primary_course_number": "6.852J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
